@@ -1,6 +1,6 @@
 # Workplace Age Diversity Analysis
 In this capstone project, I uncover the best and worst source of talent acquisition for promoting Workplace Age Diversity. I also try to see if there is a meaningful statistical difference in the sample means of work performance scores between commonly represented and under-represented age groups. 
-Although the data set used here is synthetic, with similar information available, the following analysis can be repeated and applied to companies looking to improve their age diversity profiles. The .csv file of the data set used can be found here and the original Kaggle introduction by Dr. Rich Huebner and Dr. Carla Patalano can be found [here](https://www.kaggle.com/rhuebner/human-resources-data-set). 
+Although the data set used here is synthetic, with similar information available, the following analysis can be repeated and applied to companies looking to improve their age diversity profiles. The .csv file of the data set used can be found [here](data/hr-dataset-v14.csv) and the original Kaggle introduction by Dr. Rich Huebner and Dr. Carla Patalano can be found [here](https://www.kaggle.com/rhuebner/human-resources-data-set). 
  
 **Goal**
 
